@@ -1,0 +1,5 @@
+D:\Softuni\ConditionalStatementsAndLoopsLab\12.NumberChecker\bin\Debug\12.NumberChecker.exe.config
+D:\Softuni\ConditionalStatementsAndLoopsLab\12.NumberChecker\bin\Debug\12.NumberChecker.exe
+D:\Softuni\ConditionalStatementsAndLoopsLab\12.NumberChecker\bin\Debug\12.NumberChecker.pdb
+D:\Softuni\ConditionalStatementsAndLoopsLab\12.NumberChecker\obj\Debug\12.NumberChecker.exe
+D:\Softuni\ConditionalStatementsAndLoopsLab\12.NumberChecker\obj\Debug\12.NumberChecker.pdb

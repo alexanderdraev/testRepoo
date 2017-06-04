@@ -1,0 +1,1 @@
+D:\Softuni\ConditionalStatementsAndLoopsLab\08.SumOfOddNumbers\bin\Debug\08.SumOfOddNumbers.exe.config
